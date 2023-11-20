@@ -1,0 +1,79 @@
+body {
+    background-color: bisque;
+    padding: 2%;
+    
+}
+
+h1 {
+    
+    font-size: 60px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding-right: 3%;
+}
+#lingid {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+#pilt{
+    border-style: solid;
+    border-color: white;
+    width: 800px;
+    height: 450px;
+}
+
+#maps {
+    border-style: solid;
+    border-color: white;
+}
+
+#adre {
+    padding-left: 25%;
+}
+
+#ikoonid {
+    padding-top: 120px;
+    word-spacing: 100px;
+}
+
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+
+
+.right {
+    right: 0;
+    background-color: bisque;
+  }
+  
+.left {
+    left: 0;
+    background-color: bisque;
+  }
+
+table {
+    border-collapse: collapse;
+    width: 100px;
+}
+
+th, td {
+    border: 1px solid white;
+    padding: 8px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+th {
+    background-color: antiquewhite;
+}
